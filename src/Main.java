@@ -1,5 +1,5 @@
 public class Main {
-    // Punto 7: Comentario añadido desde el editor de GitHub.
+    // Punto 9: Modificación desde GitHub para crear conflicto.
     public static void main(String[] args) {
         System.out.println("Cálculo 1:");
         calcularYmostrarArea(5.0, 10.0);
