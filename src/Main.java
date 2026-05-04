@@ -6,6 +6,8 @@ public class Main {
 
         System.out.println("Cálculo 2:");
         calcularYmostrarArea(8.0, 3.0);
+
+        System.out.println("Línea desde la nueva rama");
     }
 
     private static void calcularYmostrarArea(double baseRectangulo1, double alturaRectangulo1) {
